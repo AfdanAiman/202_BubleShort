@@ -61,5 +61,8 @@ void display(){
     }
 }
 
-int main()
-    
+int main(){
+input();
+bubbleShortArray();
+display();
+}
